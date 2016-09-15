@@ -1,4 +1,10 @@
 ## mustache-wrapper
 
 <hr/>
-Note This page is generated based on the markdown-syntax. For details see <http://daringfireball.net/projects/markdown/syntax/>
+Mustache wrapper for usage in cubbles.
+
+***
+Origin Library:
+> {{mustache}}: Logic-less templates.
+
+See: [mustache](https://mustache.github.io/) 
